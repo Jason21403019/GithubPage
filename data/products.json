@@ -1,14 +1,14 @@
 [
   { 
     "name":"Iphone13",
-    "price":26900,
+    "price":26900
   },
    { 
     "name":"Iphone14",
-    "price":27900,
+    "price":27900
   },
    { 
     "name":"Iphone15",
-    "price":28900,
+    "price":28900
   },
 ]
